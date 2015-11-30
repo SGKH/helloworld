@@ -1,0 +1,12 @@
+{
+    "name": "hofkens/helloworld",
+    "description": "Say hello",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Hofkens",
+            "email": "Tom.Hofkens@sji.be"
+        }
+    ],
+    "require": {}
+}
